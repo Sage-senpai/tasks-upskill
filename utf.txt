@@ -1,0 +1,18 @@
+The <meta charset="UTF-8"> tag
+ is used to specify the character encoding of an HTML document.
+
+In HTML5, the charset attribute is part of the meta tag, and it is used to declare the character 
+encoding used for the HTML document. UTF-8 is a character encoding that supports a wide range of 
+characters, including Latin, Greek, Cyrillic, and many other scripts.
+
+By including the <meta charset="UTF-8"> tag in the head section of an HTML document, you ensure that the
+ document is displayed correctly in all browsers, regardless of the character encoding used by the operating system or the web server.
+
+Using the correct character encoding is important to ensure that text and special 
+characters are displayed correctly in the browser, and to prevent any issues with character encoding conversion.
+
+In summary, the <meta charset="UTF-8"> tag specifies the character encoding used for an HTML document, and it is used to ensure that the document is 
+displayed correctly in all browsers.
+
+
+
