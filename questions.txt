@@ -1,0 +1,35 @@
+1. What distinguishes normal HTML elements from semantic HTML elements? 
+    Normal HTML elements, also known as presentational
+     or non-semantic elements, are used to define the 
+     structure and presentation of a webpage. 
+     Examples include <div> and <span>. These elements do not provide any information about the content they enclose.
+
+Semantic HTML elements, on the other hand, 
+are used to provide meaning and context to the content they 
+enclose. Examples include <header>, <footer>, <article>, <section>, and <nav>. These elements help search engines and screen readers understand the content of a webpage.
+
+In summary, normal HTML elements are used for structure and presentation, 
+while semantic HTML elements are used to provide meaning and context to the content
+
+
+2. Explain the disparity between closing tags and self-closing tags in HTML.
+     closing tags are used to indicate the end of an element,
+      while self-closing tags are used for empty elements that do not have any content or do not require a closing tag
+    closing tags are used to indicate the end of an element. They are mandatory for most elements, such as <p>, <div>, and <table>. 
+    Closing tags help ensure that the content is properly structured and displayed.
+
+Self-closing tags, on the other hand, are used for elements that do not have any content or do not require a closing tag. 
+These elements are also known as empty elements. Examples include <br>, <img>, and <input>. Self-closing tags do not require a separate closing tag, 
+and can be written as a single tag with a forward slash before the closing bracket, like this: <br />.
+
+
+ 3. What distinguishes inline elements from block elements in HTML
+ inline elements occupy only the space that is necessary for the content they contain and do not start on a new line, 
+ while block elements occupy the full width of their parent element, start on a new line, and can contain other block or inline elements.
+In HTML, elements are categorized as either inline or block. Inline elements occupy only the space that is necessary for the content they contain,
+ and they do not start on a new line. Examples of inline elements include <span>, <a>, <img>, and <b>.
+
+Block elements, on the other hand, occupy the full width of their parent element and start on a new line.
+ They also have a default width and height, and they can contain other block or inline elements. Examples of block elements include <div>, <p>, <article>, and <header>.
+
+
